@@ -1,0 +1,6 @@
+@UserManualNew_HostAddress = http://localhost:5115
+
+GET {{UserManualNew_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
